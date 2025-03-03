@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Joshita-s-Portfolio/static/css/main.70bb6361.css",
+    "main.js": "/Joshita-s-Portfolio/static/js/main.17a93281.js",
+    "static/media/Image2.png": "/Joshita-s-Portfolio/static/media/Image2.0725345ed89f5b9d4082.png",
+    "static/media/port6.png": "/Joshita-s-Portfolio/static/media/port6.60580c5b44248764eb99.png",
+    "static/media/port1.png": "/Joshita-s-Portfolio/static/media/port1.1bde1e2534f283a6642d.png",
+    "static/media/port4.png": "/Joshita-s-Portfolio/static/media/port4.f96b263c0bfc8b97df27.png",
+    "static/media/port2.png": "/Joshita-s-Portfolio/static/media/port2.e25a97f1dc567b23f875.png",
+    "static/media/port5.png": "/Joshita-s-Portfolio/static/media/port5.231084b22fcc8032b677.png",
+    "static/media/port3.png": "/Joshita-s-Portfolio/static/media/port3.50270ad5b0e279d848b0.png",
+    "static/media/shs3.jpg": "/Joshita-s-Portfolio/static/media/shs3.8dc14d441fd55d498adf.jpg",
+    "static/media/logo.png": "/Joshita-s-Portfolio/static/media/logo.3514dde7723da02d7b30.png",
+    "static/media/ui-design.png": "/Joshita-s-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Joshita-s-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Joshita-s-Portfolio/index.html",
+    "main.70bb6361.css.map": "/Joshita-s-Portfolio/static/css/main.70bb6361.css.map",
+    "main.17a93281.js.map": "/Joshita-s-Portfolio/static/js/main.17a93281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70bb6361.css",
+    "static/js/main.17a93281.js"
+  ]
+}
